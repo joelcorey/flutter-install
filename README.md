@@ -6,6 +6,10 @@
 
 ```flutter doctor```
 
+```echo 'export PATH="$PATH:$HOME/install/flutter/bin"' >> ~/.bashrc```
+
+```source ~/.bashrc```
+
 Required 32-bit libraries for all modern 64-bit Ubuntu installs that want to run Android Studio:
 ```sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386```
 
